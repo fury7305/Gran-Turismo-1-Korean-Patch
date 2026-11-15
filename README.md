@@ -1,5 +1,4 @@
-# Gran-Turismo-1-Korean-Patch
-그란 투리스모 1 PS1 일본판 한글패치
+그란 투리스모 1 PS1 일본판 한글패치 Gran Turismo 1 (PS1) 한국어 패치
 Gran Turismo 1 (PS1) 한국어 패치
 
 PlayStation 1 『Gran Turismo 1』 일본판을 위한 비공식 한국어 패치 프로젝트입니다.
